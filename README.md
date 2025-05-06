@@ -10,7 +10,6 @@ The original notebook [`llm-workshop_original.ipynb`](llm-workshop_original.ipyn
 
 - Applied **oversampling** and **undersampling** to balance class distribution.
 - Demonstrated **improved model performance** through evaluation metrics.
-- Provided side-by-side comparison with the original implementation.
 
 ## Repository Structure
 ```text
